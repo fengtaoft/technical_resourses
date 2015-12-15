@@ -1,0 +1,15 @@
+[1] Glide 
+
+WHAT? 
+
+--Image Loader Library.
+
+In the passed Google Developer Summit Thailand, Google introduced us an Image Loader Library for Android developed by bumptech named Glide as a library that recommended by Google. It has been used in many Google open source projects till now including Google I/O 2014 official application. It succeeded in making me interested. I spent a whole night playing with it and decided to share  my experience in this blog post. As a begining, I must say that it looks 90% similar to Picasso. To be more precise, I think
+ it is something like a Picasso-clone.
+
+HOW?
+
+https://github.com/bumptech/glide
+
+
+
