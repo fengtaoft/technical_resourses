@@ -4,12 +4,19 @@ WHAT?
 
 --Image Loader Library.
 
+Glide is a fast and efficient open source media management and image loading framework for Android that wraps media decodeing, memory and disk caching, and resource pooling into a simple and easy to use interface.
+
+Glide supports fetching, decoding, and displaying video stills, images, and animated GIFs. Glide includes a flexible API that allows developers to plug in to almost any network stack. By default Glide uses a custom HttpUrlConnection based stack, but also includes utility libraries plug in to Google's Volley project or Square's OkHttp library instead.
+
+Glide's primary focus is on making scrolling any kind of a list of images as smooth and fast as possible, but Glide is also effective for almost any case where you need to fetch, resize, and display a remote image.
+
+
 In the passed Google Developer Summit Thailand, Google introduced us an Image Loader Library for Android developed by bumptech named Glide as a library that recommended by Google. It has been used in many Google open source projects till now including Google I/O 2014 official application. It succeeded in making me interested. I spent a whole night playing with it and decided to share  my experience in this blog post. As a begining, I must say that it looks 90% similar to Picasso. To be more precise, I think
  it is something like a Picasso-clone.
 
 HOW?
 
-https://github.com/bumptech/glide
-
+Official Page:https://github.com/bumptech/glide
+Introduction Page:http://inthecheesefactory.com/blog/get-to-know-glide-recommended-by-google/en
 
 
