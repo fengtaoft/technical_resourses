@@ -2,9 +2,12 @@ Volley
 
 WHAT?
 
-Network framework for android platform.
+Volley is an HTTP library that makes networking for Android apps easier and most importantly faster.
 
 HOW?
 	
 https://android.googlesource.com/platform/frameworks/volley
 https://github.com/mcxiaoke/android-volley
+
+
+
